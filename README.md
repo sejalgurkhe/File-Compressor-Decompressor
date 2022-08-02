@@ -8,7 +8,7 @@ or .txt.
 #Working
 1. The application displays a window which allows you to select a .docx or .txt 
 file to compress. 
-2.It also directly allows to select .bin file to decompress.
+2. It also directly allows to select .bin file to decompress.
 3. After the file is selected it compresses or decompresses accordingly and 
 then asks for the folder to save that file.
 4. The file is saved at the mentioned location.
